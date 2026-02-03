@@ -1,0 +1,68 @@
+{
+  "image_generation": {
+    "subject": {
+      "description": "stylish woman walking through a European city street",
+      "pose": "standing casually with one hand in coat pocket and the other holding a takeaway coffee cup",
+      "expression": "confident, composed, elegant",
+      "gaze": "looking slightly to the side, away from the camera"
+    },
+    "appearance": {
+      "hair": {
+        "color": "dark brown",
+        "style": "short, softly waved bob"
+      },
+      "face": {
+        "skin_tone": "light with neutral undertones",
+        "makeup": "polished makeup with bold red lipstick"
+      },
+      "accessories": [
+        "black sunglasses",
+        "gold hoop earrings",
+        "layered gold necklace",
+        "black quilted designer handbag"
+      ]
+    },
+    "outfit": {
+      "outerwear": "long tailored gray wool coat",
+      "top": "gray knit sweater layered over a white collared shirt and black turtleneck",
+      "bottom": "high-waisted gray tailored trousers",
+      "belt": "black leather belt with metal buckle"
+    },
+    "environment": {
+      "setting": "classic European city street",
+      "background_elements": [
+        "stone staircases",
+        "historic buildings",
+        "cobblestone pavement",
+        "vintage street lamps",
+        "pedestrians in the distance"
+      ],
+      "atmosphere": "chic, urban, timeless"
+    },
+    "props": {
+      "drink": "white takeaway coffee cup with lid",
+      "bag": "black quilted shoulder handbag"
+    },
+    "lighting": {
+      "type": "natural daylight",
+      "direction": "soft frontal lighting",
+      "quality": "diffused, overcast city light"
+    },
+    "camera": {
+      "angle": "eye-level",
+      "framing": "medium full-body shot",
+      "lens": "50mm",
+      "depth_of_field": "moderate, background softly blurred"
+    },
+    "aesthetic": {
+      "style": "editorial street fashion photography",
+      "vibe": "Parisian chic, sophisticated, modern",
+      "color_palette": "neutral grays, beige stone tones, black accents"
+    },
+    "quality": {
+      "realism": "highly realistic",
+      "resolution": "high resolution",
+      "look": "luxury fashion editorial"
+    }
+  }
+}
